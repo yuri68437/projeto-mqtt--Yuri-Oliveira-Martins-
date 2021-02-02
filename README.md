@@ -42,6 +42,3 @@ Foram utilizando as seguintes bibliotecas:
 ---
 
 ## Autor: Yuri Martins
-
-[![gmailLogo](https://user-images.githubusercontent.com/61972825/106656703-cb3aab00-6579-11eb-9193-83d099d4e68a.jpg)
-](https://user-images.githubusercontent.com/61972825/106656084-f7096100-6578-11eb-8fcc-06c1c17311ad.jpg)](https://www.google.com/search?q=gmail&oq=gmail&aqs=chrome.0.69i59l3j69i60l3j69i61l2.747j0j4&sourceid=chrome&ie=UTF-8)
