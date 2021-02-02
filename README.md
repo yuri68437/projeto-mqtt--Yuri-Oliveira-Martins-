@@ -43,7 +43,7 @@ Foram utilizando as seguintes bibliotecas:
 
 ## Autor: Yuri Martins
 
-[![gmail](https://user-images.githubusercontent.com/61972825/106668757-6b4c0080-6589-11eb-8da3-bfeaba4000aa.png)](https://www.google.com/search?q=gmail&source=lmns&bih=732&biw=1600&hl=pt-BR&sa=X&ved=2ahUKEwib3tqpgszuAhUHL7kGHQ2jDcUQ_AUoAHoECAEQAA)
+[![gmail](https://user-images.githubusercontent.com/61972825/106668757-6b4c0080-6589-11eb-8da3-bfeaba4000aa.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 [![linkedinlogo](https://user-images.githubusercontent.com/61972825/106658428-0a69fb80-657c-11eb-9076-a4dc4e32762c.png)](https://br.linkedin.com/)
 
