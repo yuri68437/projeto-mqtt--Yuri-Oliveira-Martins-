@@ -12,4 +12,16 @@ Enviar essa informação via internet utilizando o protocolo MQTT(*Message Queui
 Foram utilizando as seguintes bibliotecas: 
 
 * [UIPEthernet](https://github.com/UIPEthernet/UIPEthernet) (conexão do ENC28J60 com o Arduíno)
-* [PubSubClient](https://github.com/knolleary/pubsubclient)(cliente MQTT para o arduino)
+* [PubSubClient](https://github.com/knolleary/pubsubclient)(cliente MQTT para o arduino)  
+
+## Materiais 
+---
+
+1. Arduíno uno  
+
+2. Módulo Ethernet (ENC28J60)  
+
+3. Sensor Magnético (MC-38)  
+
+4. Jumpers  
+
