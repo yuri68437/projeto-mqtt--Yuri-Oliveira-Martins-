@@ -27,7 +27,8 @@ Foram utilizando as seguintes bibliotecas:
 
 ## Circuito
 
-![img2](https://user-images.githubusercontent.com/61972825/106652453-3ed9b980-6574-11eb-8ae9-f11237977850.jpg)
+![img2](https://user-images.githubusercontent.com/61972825/106782456-f0d2bd80-6628-11eb-9429-c5e420c05dcc.jpg)
+
 ---
 ### Ligação dos Jumpers 
 
@@ -45,4 +46,5 @@ Foram utilizando as seguintes bibliotecas:
 [![gmail](https://user-images.githubusercontent.com/61972825/106668757-6b4c0080-6589-11eb-8da3-bfeaba4000aa.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 [![linkedinlogo](https://user-images.githubusercontent.com/61972825/106658428-0a69fb80-657c-11eb-9076-a4dc4e32762c.png)](https://br.linkedin.com/)
+
 
