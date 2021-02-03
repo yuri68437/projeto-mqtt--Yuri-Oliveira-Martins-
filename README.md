@@ -28,7 +28,7 @@ Foram utilizando as seguintes bibliotecas:
 ## Circuito
 
 ![img2](https://user-images.githubusercontent.com/61972825/106652453-3ed9b980-6574-11eb-8ae9-f11237977850.jpg)
-
+---
 ### Ligação dos Jumpers 
 
 | PINOS ENC28J60 | Pinos Arduino |
