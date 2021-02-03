@@ -40,7 +40,6 @@ Foram utilizando as seguintes bibliotecas:
 |      VCC	 |     3.3 V	 |
 |      GND	 |	GND    	 |
 ---
-
 ## Autor: Yuri Martins
 
 [![gmail](https://user-images.githubusercontent.com/61972825/106668757-6b4c0080-6589-11eb-8da3-bfeaba4000aa.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
