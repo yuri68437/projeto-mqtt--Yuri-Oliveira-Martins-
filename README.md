@@ -34,7 +34,7 @@ Foram utilizando as seguintes bibliotecas:
 
 | PINOS ENC28J60 | Pinos Arduino |
 | -------------- |:------------- | 
-| 	CS       | 	10    	 | 
+| 	       CS| 	10    	 | 
 |	SI       |     	11	 |   
 | 	SO       | 	12       |    
 |      SCK	 | 	13	 |
