@@ -22,7 +22,7 @@ void setup() {
     pinMode (pino2, INPUT_PULLUP);
     Serial.begin(9600);
     
-    mqttClient.setServer("54.174.235.157",1883);
+    mqttClient.setServer("54.161.191.80",1883);
 
     //Exibe no Monitor Serial as informações sobre o IP do Arduino
     Serial.print("O IP do Arduino e: ");
@@ -45,18 +45,16 @@ void loop() {
     estado_sensor = digitalRead(pino2); //fazer a comparação 
     mqttClient.connect("aula91");
     if(estado_sensor == 1){ // fazer comparação para identificar se está ligado ou desligado
-      Serial.println("O sensor esta aberto! ");
-      delay(1000);
+      Serial.println("O sensor esta aberto! ");      
       Serial.println(estado_sensor);
-        msg = mqttClient.publish("aula91","Sensor LIGADO!");
+        msg = mqttClient.publish("aula91","Sensor ABERTO!");
     }else{ 
-      Serial.println("O sensor esta fechado! ");
-      delay(1000);
+      Serial.println("O sensor esta fechado! ");      
       Serial.println(estado_sensor);
-      msg = mqttClient.publish("aula91","Sensor DESLIGADO!");
+      msg = mqttClient.publish("aula91","Sensor FECHADO!");
     } 
   
-  delay(500);
+
   mqttClient.loop();
 }
 ~~~
